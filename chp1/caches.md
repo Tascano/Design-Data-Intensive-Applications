@@ -1,3 +1,5 @@
+Remember the result of an expensive operation, to speed up reads (caches)
+
 Below is a example of a FastAPI service that stores and retrieves user data from DynamoDB with caching using Redis. 
 Please note that this example assumes you have set up a DynamoDB table and a Redis server.
 
